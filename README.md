@@ -1,1 +1,2 @@
-# PROJECT-37
+# synchronousBallMovement
+Ball moving synchronously
